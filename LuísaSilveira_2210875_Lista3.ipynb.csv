@@ -1,0 +1,63 @@
+,PassengerId,Coluna_nova,Name,Sex,Age,Survived,Sobreviveu
+305,306,199,"Allison, Master. Hudson Trevor",male,0.92,1,Sobreviveu
+297,298,193,"Allison, Miss. Helen Loraine",female,2.0,0,Não sobreviveu
+850,851,553,"Andersson, Master. Sigvard Harald Elias",male,4.0,0,Não sobreviveu
+813,814,527,"Andersson, Miss. Ebba Iris Alfrida",female,6.0,0,Não sobreviveu
+119,120,77,"Andersson, Miss. Ellis Anna Maria",female,2.0,0,Não sobreviveu
+541,542,348,"Andersson, Miss. Ingeborg Constanzia",female,9.0,0,Não sobreviveu
+182,183,113,"Asplund, Master. Clarence Gustaf Hugo",male,9.0,0,Não sobreviveu
+261,262,169,"Asplund, Master. Edvin Rojj Felix",male,3.0,1,Sobreviveu
+233,234,149,"Asplund, Miss. Lillian Gertrud",female,5.0,1,Sobreviveu
+644,645,420,"Baclini, Miss. Eugenie",female,0.75,1,Sobreviveu
+469,470,306,"Baclini, Miss. Helene Barbara",female,0.75,1,Sobreviveu
+448,449,290,"Baclini, Miss. Marie Catherine",female,5.0,1,Sobreviveu
+183,184,119,"Becker, Master. Richard F",male,1.0,1,Sobreviveu
+618,619,401,"Becker, Miss. Marion Louise",female,4.0,1,Sobreviveu
+852,853,551,"Boulos, Miss. Nourelain",female,9.0,0,Não sobreviveu
+78,79,51,"Caldwell, Master. Alden Gates",male,0.83,1,Sobreviveu
+237,238,150,"Collyer, Miss. Marjorie ""Lottie""",female,8.0,1,Sobreviveu
+489,490,314,"Coutts, Master. Eden Leslie ""Neville""",male,9.0,1,Sobreviveu
+348,349,226,"Coutts, Master. William Loch ""William""",male,3.0,1,Sobreviveu
+549,550,354,"Davies, Master. John Morgan Jr",male,8.0,1,Sobreviveu
+788,789,514,"Dean, Master. Bertram Vere",male,1.0,1,Sobreviveu
+445,446,288,"Dodge, Master. Washington",male,4.0,1,Sobreviveu
+777,778,504,"Emanuel, Miss. Virginia Ethel",female,5.0,1,Sobreviveu
+147,148,90,"Ford, Miss. Robina Maggie ""Ruby""",female,9.0,0,Não sobreviveu
+165,166,102,"Goldsmith, Master. Frank John William ""Frankie""",male,9.0,1,Sobreviveu
+480,481,308,"Goodwin, Master. Harold Victor",male,9.0,0,Não sobreviveu
+386,387,252,"Goodwin, Master. Sidney Leonard",male,1.0,0,Não sobreviveu
+755,756,493,"Hamalainen, Master. Viljo",male,0.67,1,Sobreviveu
+720,721,467,"Harper, Miss. Annie Jessie ""Nina""",female,6.0,1,Sobreviveu
+535,536,345,"Hart, Miss. Eva Miriam",female,7.0,1,Sobreviveu
+479,480,312,"Hirvonen, Miss. Hildur E",female,2.0,1,Sobreviveu
+869,870,565,"Johnson, Master. Harold Theodor",male,4.0,1,Sobreviveu
+172,173,112,"Johnson, Miss. Eleanor Ileen",female,1.0,1,Sobreviveu
+691,692,449,"Karun, Miss. Manca",female,4.0,1,Sobreviveu
+184,185,118,"Kink-Heilmann, Miss. Luise Gretchen",female,4.0,1,Sobreviveu
+43,44,26,"Laroche, Miss. Simonne Marie Anne Andree",female,3.0,1,Sobreviveu
+827,828,540,"Mallet, Master. Andre",male,1.0,1,Sobreviveu
+751,752,487,"Moor, Master. Meier",male,6.0,1,Sobreviveu
+381,382,248,"Nakid, Miss. Maria (""Mary"")",female,1.0,1,Sobreviveu
+340,341,221,"Navratil, Master. Edmond Roger",male,2.0,1,Sobreviveu
+193,194,124,"Navratil, Master. Michel M",male,3.0,1,Sobreviveu
+7,8,3,"Palsson, Master. Gosta Leonard",male,2.0,0,Não sobreviveu
+374,375,242,"Palsson, Miss. Stina Viola",female,3.0,0,Não sobreviveu
+24,25,11,"Palsson, Miss. Torborg Danira",female,8.0,0,Não sobreviveu
+164,165,107,"Panula, Master. Eino Viljami",male,1.0,0,Não sobreviveu
+50,51,28,"Panula, Master. Juha Niilo",male,7.0,0,Não sobreviveu
+824,825,537,"Panula, Master. Urho Abraham",male,2.0,0,Não sobreviveu
+530,531,345,"Quick, Miss. Phyllis May",female,2.0,1,Sobreviveu
+171,172,109,"Rice, Master. Arthur",male,4.0,0,Não sobreviveu
+278,279,177,"Rice, Master. Eric",male,7.0,0,Não sobreviveu
+16,17,9,"Rice, Master. Eugene",male,2.0,0,Não sobreviveu
+787,788,509,"Rice, Master. George Hugh",male,8.0,0,Não sobreviveu
+831,832,542,"Richards, Master. George Sibley",male,0.83,1,Sobreviveu
+407,408,264,"Richards, Master. William Rowe",male,3.0,1,Sobreviveu
+10,11,4,"Sandstrom, Miss. Marguerite Rut",female,4.0,1,Sobreviveu
+63,64,39,"Skoog, Master. Harald",male,4.0,0,Não sobreviveu
+634,635,408,"Skoog, Miss. Mabel",female,9.0,0,Não sobreviveu
+642,643,418,"Skoog, Miss. Margit Elizabeth",female,2.0,0,Não sobreviveu
+205,206,133,"Strom, Miss. Telma Matilda",female,2.0,0,Não sobreviveu
+803,804,524,"Thomas, Master. Assad Alexander",male,0.42,1,Sobreviveu
+750,751,487,"Wells, Miss. Joan",female,4.0,1,Sobreviveu
+58,59,35,"West, Miss. Constance Mirium",female,5.0,1,Sobreviveu
